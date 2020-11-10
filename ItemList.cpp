@@ -6,7 +6,7 @@
 using namespace std;
 
 //Constructor--Initial allocation of the class object
-ItemList::ItemList()
+ItemList::ItemList()                                    //Undefined reference 
 {
 
 }
