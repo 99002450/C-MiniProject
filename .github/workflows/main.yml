@@ -24,4 +24,4 @@ jobs:
     - name: make
       run: make
     - name: Valgrind
-      run: valgrind ./.out
+      run: valgrind ./itemtest.out
